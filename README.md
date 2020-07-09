@@ -1,4 +1,4 @@
-### Hi there, I'm Yoann Moinet.
+### Hi there :wave:
 
 #### I am a JS and NodeJS developer.
 
