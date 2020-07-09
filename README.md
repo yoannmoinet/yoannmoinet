@@ -1,4 +1,12 @@
-### Hi there 👋
+### 👋 Hi there, I'm Yoann Moinet.
+
+#### I am a JS and NodeJS developer.
+
+🙌 Currently working at [Datadog](https://datadoghq.com/) in the FrontEnd Platform team, improving the developer experience and efficiency for 70 engineers.
+
+📜 Previously [Zendesk](https://zendesk.com/), [Autodesk](https://autodesk.com/) and [Cossette](http://www.cossette.com/en).
+
+🔗 You can find me on [Twitter](https://twitter.com/yoannm) and [LinkedIn](https://www.linkedin.com/in/yoannmoinet/).
 
 <!--
 **yoannmoinet/yoannmoinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
