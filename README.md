@@ -2,7 +2,7 @@
 
 #### I am a JS and NodeJS developer.
 
-🙌 Currently working at [Datadog](https://datadoghq.com/) in the FrontEnd Platform team, improving the developer experience and efficiency for 70 engineers.
+🙌 Currently working at [Datadog](https://datadoghq.com/) in the FrontEnd Platform team, improving the developer experience and efficiency for 300 engineers.
 
 📜 Previously [Zendesk](https://zendesk.com/), [Autodesk](https://autodesk.com/) and [Cossette](http://www.cossette.com/en).
 
